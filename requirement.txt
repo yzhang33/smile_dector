@@ -1,0 +1,7 @@
+opencv==4.5.1.48 
+tweepy==3.10.0 
+tkinter==1.3.2 
+dotenv==0.0.5 
+emoji==1.2.0 
+giphy_client==1.0.0 
+requests==2.25.1 
