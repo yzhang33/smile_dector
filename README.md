@@ -25,7 +25,7 @@ When a smile is detected, I will have a conversation with the bot. At first, I w
 I can type in the input field and Pepper will reply to the input text. All these conversations scripted using RiveScript
 
 ## Tweets and Count Smiles 
-When I am done with chatting, Pepper will become a tweeter bot when she did not see a smile. She will tweet how many smiles were seen so far using emoji and she will also @ me with gifs if she did not see smiles for some time. 
+When I am done with chatting, Pepper will become a tweeter bot when she did not see a smile. She will tweet how many smiles were seen so far using emoji and she will also @ me with gifs if she did not see smiles for some time. I also added a color of the day feature to let pepper have more fun when not see smiles. The color is generated using genetic algorithm. The color with heighest fitness score get picked. It will also show the colors parents. 
 Check out Pepper's [twitter](https://twitter.com/AustinTiger)
 
 ![twitter](./assets/twitter.png)
